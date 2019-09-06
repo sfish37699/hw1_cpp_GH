@@ -18,5 +18,13 @@
     <ClCompile Include="HW1_CPP_GH.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="lib01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

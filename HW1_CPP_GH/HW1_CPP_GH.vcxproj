@@ -152,6 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HW1_CPP_GH.cpp" />
+    <ClCompile Include="lib01.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib01.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
