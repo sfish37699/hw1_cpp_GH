@@ -7,7 +7,9 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "This is under GitHub version management\n";
+	std::cout << "This has been added on dev1\n";
 	std::cout << "And another line....\n";
+	std::cout << "Test to see if clone back works\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
