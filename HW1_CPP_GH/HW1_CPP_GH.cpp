@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include "lib01.h"
 
 int main()
 {
@@ -10,6 +11,9 @@ int main()
 	std::cout << "This has been added on dev1\n";
 	std::cout << "And another line....\n";
 	std::cout << "Test to see if clone back works\n";
+	int c = a1(2, 3);
+	std::cout << "Test add function o/p should be 5 and is: " << c << std::endl;
+	std::cout << "All done time for tea...\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
