@@ -13,6 +13,7 @@ int main()
 	std::cout << "Test to see if clone back works\n";
 	int c = a1(2, 3);
 	std::cout << "Test add function o/p should be 5 and is: " << c << std::endl;
+	std::cout << "Inserted from a second developer\n";
 	std::cout << "All done time for tea...\n";
 }
 
